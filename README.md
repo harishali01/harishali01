@@ -3,7 +3,7 @@
 
 📧 harishali023@gmail.com — Open for Internships & Collaborations!
 
-- 🔭 **Currently working on:** Language Detection System (NLP + Naive Bayes)
+- 🔭 **Currently working on:** AI-Resume-Classifier
 - 🌱 **Currently learning:** Deep Learning, LSTM, Advanced ML
 - 👯 **Looking to collaborate on:** AI/ML & Data Science Projects
 - 💬 **Ask me about:** Python, Machine Learning, NLP, Data Analytics, Power BI
